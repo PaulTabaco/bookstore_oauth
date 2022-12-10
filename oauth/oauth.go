@@ -29,8 +29,8 @@ var (
 
 type accessToken struct {
 	Id       string `json:"id"`
-	UserId   int64  `jsom:"user_id"`
-	ClientId int64  `jsom:"client_id"`
+	UserId   int64  `json:"user_id"`
+	ClientId int64  `json:"client_id"`
 }
 
 func IsPublic(request *http.Request) bool {
