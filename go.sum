@@ -1,2 +1,4 @@
+github.com/PaulTabaco/bookstore_utils v0.0.0-20221212224443-19484854a26a h1:B2ZUQ63Vodw1uMODOEL5KlVN75o8HSkK9VJYgI/whBw=
+github.com/PaulTabaco/bookstore_utils v0.0.0-20221212224443-19484854a26a/go.mod h1:b2zJtDL3fyx8bvDoSp134dRiIsrfMSUOWNezuukw0ZE=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
 github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
